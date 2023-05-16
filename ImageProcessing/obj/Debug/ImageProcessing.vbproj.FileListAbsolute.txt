@@ -1,0 +1,46 @@
+D:\71180253\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+D:\71180253\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+D:\71180253\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+D:\71180253\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.xml
+D:\71180253\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.vbproj.AssemblyReference.cache
+D:\71180253\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.vbproj.SuggestedBindingRedirects.cache
+D:\71180253\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+D:\71180253\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form2.resources
+D:\71180253\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Resources.resources
+D:\71180253\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.vbproj.GenerateResource.cache
+D:\71180253\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.vbproj.CoreCompileInputs.cache
+D:\71180253\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+D:\71180253\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.xml
+D:\71180253\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+D:\Kuliah\New Beginning\1\ProgDesktop\9\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+D:\Kuliah\New Beginning\1\ProgDesktop\9\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+D:\Kuliah\New Beginning\1\ProgDesktop\9\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+D:\Kuliah\New Beginning\1\ProgDesktop\9\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.xml
+D:\Kuliah\New Beginning\1\ProgDesktop\9\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.vbproj.AssemblyReference.cache
+D:\Kuliah\New Beginning\1\ProgDesktop\9\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.vbproj.SuggestedBindingRedirects.cache
+D:\Kuliah\New Beginning\1\ProgDesktop\9\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+D:\Kuliah\New Beginning\1\ProgDesktop\9\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form2.resources
+D:\Kuliah\New Beginning\1\ProgDesktop\9\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Resources.resources
+D:\Kuliah\New Beginning\1\ProgDesktop\9\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.vbproj.GenerateResource.cache
+D:\Kuliah\New Beginning\1\ProgDesktop\9\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.vbproj.CoreCompileInputs.cache
+D:\Kuliah\New Beginning\1\ProgDesktop\9\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+D:\Kuliah\New Beginning\1\ProgDesktop\9\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.xml
+D:\Kuliah\New Beginning\1\ProgDesktop\9\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+D:\Kuliah\New Beginning\1\ProgDesktop\9\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.FormBorder.resources
+D:\Kuliah\New Beginning\1\ProgDesktop\9\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.FormWatermark.resources
+E:\UKDW\Tugas Kelo\Tugas 3\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+E:\UKDW\Tugas Kelo\Tugas 3\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+E:\UKDW\Tugas Kelo\Tugas 3\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+E:\UKDW\Tugas Kelo\Tugas 3\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.xml
+E:\UKDW\Tugas Kelo\Tugas 3\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.vbproj.AssemblyReference.cache
+E:\UKDW\Tugas Kelo\Tugas 3\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.vbproj.SuggestedBindingRedirects.cache
+E:\UKDW\Tugas Kelo\Tugas 3\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+E:\UKDW\Tugas Kelo\Tugas 3\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form2.resources
+E:\UKDW\Tugas Kelo\Tugas 3\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.FormBorder.resources
+E:\UKDW\Tugas Kelo\Tugas 3\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.FormWatermark.resources
+E:\UKDW\Tugas Kelo\Tugas 3\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Resources.resources
+E:\UKDW\Tugas Kelo\Tugas 3\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.vbproj.GenerateResource.cache
+E:\UKDW\Tugas Kelo\Tugas 3\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.vbproj.CoreCompileInputs.cache
+E:\UKDW\Tugas Kelo\Tugas 3\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+E:\UKDW\Tugas Kelo\Tugas 3\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.xml
+E:\UKDW\Tugas Kelo\Tugas 3\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
